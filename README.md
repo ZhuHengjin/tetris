@@ -1,2 +1,6 @@
 # Tetris
- course project for cmu 15112
+ Course project for cmu 15112
+
+## Features
+ - Press **up arrow** to change piece directions
+ - Press **left arrow** or **right arrow** to move pieces
